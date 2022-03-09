@@ -1,5 +1,6 @@
 # AI-Arts - Technik Tage 2022
 ![](images/GCT_Logo.png)
+
 ![](images/ai-art.png)
 
 
