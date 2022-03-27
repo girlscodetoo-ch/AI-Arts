@@ -1,4 +1,4 @@
-# AI-Arts - Technik Tage 2022
+# AI-Arts - Technik Tage 2022 - Kantonsschule Hottingen
 ![](images/GCT_Logo.png)
 ![](images/ai-art.jpg)
 
@@ -40,3 +40,13 @@ The workshop will last from 9:00 to 16:30 and is divided into three different pa
 ## Part 4 - Feedback
 ![](images/questionnaire.jpeg)
 Please fill this form and tell us how you liked the day and what could be improved. 
+
+
+## Contact
+If you enjoyed the workshop and you would like to pursue your tech journey. Please go to our [website](https://girlscodetoo.ch/) and check out the courses that we are offering all year long. We also offer support and advice when it comes to decide what you want to do after High School!
+
+You can also directly contact us at: info@girlscodetoo.ch
+
+## Copyrights
+![](images/GCT_Logo.png)
+Copyright (C) 2022 - GirlsCodeToo
