@@ -687,4 +687,51 @@ Go to `File` > `Close Project`, you should then see the following screen:
 
 ![img](images/Welcome.png)
 
-Then go to `Get from VCS` and enter the following URL: https://github.com/girlscodetoo-ch/AI-Arts.git. 
+Then go to `Get from VCS` and enter the following `URL`: https://github.com/girlscodetoo-ch/AIArtsApp.git. Then click on `clone` on the bottom right of the screen.
+
+If you run the app you should see something like this: 
+
+![img](images/initial_app.png)
+
+Now is your turn! Will you be able to build an app able to connect to the camera of the phone, take a picture and convert it into a piece of art? 
+
+Good Luck 🍀
+
+Before you start, here are a couple of tips that you will need in order to complete the challenge. We will decompose the task into three smaller but simpler parts. 
+
+## Part A - Create a button to leave the Welcome Screen
+
+By now, with the experience you collected in part 4, you should be able to create a button and to connect it with a function. Do so please go to: `app/src/main/res/layout/activity_welcome.xml` and add a button to the screen. This button, when clicked should call the function `goToCameraActivity()`. This function has been created for you in the document `app/src/main/java/org/tensorflow/lite/examples/styletransfer/WelcomeActivity.java`. However, on the screen you should see that there is an issue (words appear in Red on the screen). Try to solve the problems and instead of pointing to `AnActivity` the function should send you to an `Activity` called `CameraActivity`. 
+
+```java
+public void goToCameraActivity(View view) {
+   Intent intent = new Intent(this, AnActivity.class);
+   startActivity(intent);
+}
+```
+
+Once you solved the issues and connected the button to this function, you can restart the App and you should be able to click on your new button and see a blank white screen. Congrats! 🤘🏼 Pretty sure you have never been so happy to see an app with a blank screen. 
+
+## Part B - Implement the connection to the camera of the phone
+
+For users to effectively take pictures or video, they must be able to see what the device camera sees. A camera preview class is a `SurfaceView` or a `Fragment` that can display the live image data coming from a camera, so users can frame and capture a picture or video.
+
+As you are approaching the end of the workshop, we would like you now to try to see if alongside with the internet, which is the best ressource to find information relative to coding, you can find a solution to your problem. Try to spend 10 to 15 minutes to solve this problem.
+
+If you were not able to find the right ressources, which is completely fine since it is your first time, Congrats for trying, you can go on this [website](https://developer.android.com/guide/topics/media/camera#java) where you get a walk-through of the answer. Otherwise, the solution complete solution is also implemented in the `MainActivity`. 
+
+## Part C - Implement the connection between the Camera and the AI model
+
+Try now to change the button in the `WelcomeActivity` to point toward the `MainActivity` instead of the `CameraActivity`. 
+
+Now restart the app and you should see the following: 
+
+![](images/MainActivity.png)
+
+# Part D - Celebrate 😎
+
+Congrats you are now official done! You just created your first app! How cool is that?! 
+
+## Copyrights
+![](../images/GCT_Logo.png)
+Copyright (C) 2022 - GirlsCodeToo

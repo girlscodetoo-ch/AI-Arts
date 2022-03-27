@@ -40,3 +40,7 @@ number of downloads is high (metric 1 is good) but the daily use is low (second 
 The teams should realise that they were able to adapt in a fast and structured way to the things happening with the project. Explain the different scrum concepts and how quite instinctively they applied the scrum concepts without knowing it. 
 
 Understand why scrum is organised in sprints (answer: you cannot plan on a long term for software projects with several stakeholders as the requirement change over time and you need to solve the issues from the past as well) 
+
+## Copyrights
+![](../images/GCT_Logo.png)
+Copyright (C) 2022 - GirlsCodeToo
