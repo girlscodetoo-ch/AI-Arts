@@ -29,7 +29,7 @@ CONTEXT: The first sprint is over, and the groups get X different feedbacks to w
 
 - SCENARIO 1: Few downloads and teams members say they found out that the app is difficult to find in the App Store. What can you do to solve that situation?  
 
-- SCENARIO 2 Priorities have changed in the management. How can you adapt and allocate the resource to satisfy management and continue the POC on your app since you believe in it  
+- SCENARIO 2 Priorities have changed in the management. How can you adapt and allocate the resource to satisfy management and continue the POC, Proof-of-Concept, on your app since you believe in it  
 
 - SCENARIO 3: Too many downloads and not expected, servers are crashing. What can they do in Sprint 2 to address these unforeseen issues?  
 
@@ -39,7 +39,7 @@ number of downloads is high (metric 1 is good) but the daily use is low (second 
 
 The teams should realise that they were able to adapt in a fast and structured way to the things happening with the project. Explain the different scrum concepts and how quite instinctively they applied the scrum concepts without knowing it. 
 
-Understand why scrum is organised in sprints (answer: you cannot plan on a long term for software projects with several stakeholders as the requirement change over time and you need to solve the issues from the past as well) 
+Understand why scrum is organised in sprints (answer: you cannot plan on a long term for software projects with several stakeholders as the requirement change over time and you need to solve the issues from the past as well. Stakeholders are the people who have certain business requirements for the project.) 
 
 ## Copyrights
 ![](../images/GCT_Logo.png)
