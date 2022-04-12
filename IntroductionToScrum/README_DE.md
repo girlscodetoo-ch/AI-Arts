@@ -33,6 +33,8 @@
 
 - SZENARIO 3: Zu viele Downloads und nicht erwartet, die Server stürzen ab. Was können sie in Sprint 2 tun, um diese unvorhergesehenen Probleme zu lösen?  
 
+- SZENARIO 4: Eure App hat zu wenige Downloads Was können sie in Sprint 2 tun, um dieses unvorhergesehene Problem zu lösen? Wie könnt ihr die Nutzer Zahlen nach oben bringen?
+
 Die Anzahl der Downloads ist hoch (Metrik 1 ist gut), aber die tägliche Nutzung ist niedrig (zweite Metrik ist schlecht) --> Die Schüler müssen herausfinden, wo das Problem liegt und die richtigen Fragen stellen. Dann gibt der Ausbilder ihnen den nächsten Hinweis, wo sie sehen, dass die Server häufig abstürzen 
 
 # Teil 3 - Reflektion über den Scrum-Prozess
