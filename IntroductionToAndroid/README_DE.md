@@ -224,6 +224,17 @@ Dropdown-Menü "Zielgerät" (images/deploy-run-app.png)
 
 Um mit der Entwicklung deiner App zu beginnen, fahre mit der [nächsten Lektion](https://developer.android.com/training/basics/firstapp/building-ui) fort.
 
+
+### Wichtige Information
+
+![](images/careful.png)
+
+Bitte sei vorsichtig mit den gemieteten Handys, sie sind zerbrechlich. 
+
+Bitte gib den Namen deiner Gruppe bei den Kursleitern an. 
+
+Die Telefone sollten ausschliesslich für den Workshop und die Übungen verwendet werden, die unten beschrieben sind. Wenn du dich nicht an diese Regel hältst, werden wir dir das Telefon leider wegnehmen müssen.
+
 ## Auf einem Emulator ausführen
 
 Führe die App wie folgt auf einem Emulator aus:
