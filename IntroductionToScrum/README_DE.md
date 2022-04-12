@@ -1,45 +1,45 @@
 # AI-Arts - Technik Tage 2022 - Part 3 - Scrum and Design Thinking
 ![](../images/GCT_Logo.png)
 
-**Context**: Now that thy when through all the trouble to train and build and app … how can they make sure that people are using the app?  
+**Kontext**: Jetzt, wo sie sich die Mühe gemacht haben, eine App zu entwickeln und zu trainieren ... wie können sie sicherstellen, dass die Leute die App auch nutzen?  
  
 
-# Part 1 - ALL TOGETHER 
+# Teil 1 - ALLE ZUSAMMEN 
 
-- They reflect on what makes an app an app of the daily life / habit for them? Which app are they using daily, weekly, …. How many app did they only downloaded and never used?  
-- General good practice to make apps sticky? E.g., gamification  
-- User journey analysis: What make you use the app and download in the first place  
-  - User persona 1: Person interested in Art 
-  - User persona 2: Person that like to do fun things with the family 
-  - UP3: etc.  
+- Sie überlegen, was eine App für sie zu einer App des täglichen Lebens/der Gewohnheit macht? Welche App nutzen sie täglich, wöchentlich, .... Wie viele Apps haben sie nur heruntergeladen und nie benutzt?  
+- Allgemeine bewährte Praktiken, um Apps "klebrig" zu machen? Z.B. Gamification  
+- Analyse der User Journey: Warum nutzen sie die App und laden sie überhaupt herunter?  
+  - User Persona 1: Person, die sich für Kunst interessiert 
+  - User Persona 2: Person, die gerne lustige Dinge mit der Familie unternimmt 
+  - UP3: usw.  
 
-- Define key features and define them in priority in time --> in summary they are designing sprint 1  
+- Definiere die wichtigsten Funktionen und lege sie in einer zeitlichen Priorität fest --> zusammenfassend ist das Design Sprint 1  
 
-- Front end features brainstorming
+- Brainstorming der Front-End-Funktionen
 
-- Backend features brainstorming
+- Brainstorming der Backend-Funktionen
 
---> here everyone should be able to say something as there is nothing right or wrong  
+--> hier sollte jeder etwas sagen können, denn es gibt kein richtig oder falsch  
 
-**Note**: Features will be written on Post and posted on the board --> then in a second step, the postits will be sorted in priority for the 1st sprint. The sorting will be done in the classic buckets (backlog, current sprint, …)  
+**Anmerkung**: Die Features werden auf Post geschrieben und an die Tafel gepostet --> in einem zweiten Schritt werden die Postits dann nach Priorität für den 1. Die Sortierung erfolgt in den klassischen Buckets (Backlog, aktueller Sprint, ...)  
 
-# Part 2 - SPLIT in X (at least 3) different groups  
+# Teil 2 - Teil euch in X (mindestens 3) verschiedene Gruppen auf
 
-CONTEXT: The first sprint is over, and the groups get X different feedbacks to which they need to adapt  
+**Kontext**: Der erste Sprint ist vorbei und die Gruppen erhalten X verschiedene Rückmeldungen, an die sie sich anpassen müssen  
 
-- SCENARIO 1: Few downloads and teams members say they found out that the app is difficult to find in the App Store. What can you do to solve that situation?  
+- SZENARIO 1: Wenige Downloads und die Teammitglieder sagen, dass sie herausgefunden haben, dass die App im App Store schwer zu finden ist. Was kannst du tun, um diese Situation zu lösen?  
 
-- SCENARIO 2 Priorities have changed in the management. How can you adapt and allocate the resource to satisfy management and continue the POC, Proof-of-Concept, on your app since you believe in it  
+- SZENARIO 2: Die Prioritäten im Management haben sich geändert. Wie kannst du die Ressourcen anpassen und zuweisen, um das Management zufrieden zu stellen und den POC (Proof-of-Concept) für deine App fortzusetzen, da du an sie glaubst?  
 
-- SCENARIO 3: Too many downloads and not expected, servers are crashing. What can they do in Sprint 2 to address these unforeseen issues?  
+- SZENARIO 3: Zu viele Downloads und nicht erwartet, die Server stürzen ab. Was können sie in Sprint 2 tun, um diese unvorhergesehenen Probleme zu lösen?  
 
-number of downloads is high (metric 1 is good) but the daily use is low (second metric is bad) --> The student need to figure out what is the problem and ask the right questions. Then the instructor give them the next hint where they see that the server s are crashing quite often 
+Die Anzahl der Downloads ist hoch (Metrik 1 ist gut), aber die tägliche Nutzung ist niedrig (zweite Metrik ist schlecht) --> Die Schüler müssen herausfinden, wo das Problem liegt und die richtigen Fragen stellen. Dann gibt der Ausbilder ihnen den nächsten Hinweis, wo sie sehen, dass die Server häufig abstürzen 
 
-# Part 3 -  Reflection on the scrum process
+# Teil 3 - Reflektion über den Scrum-Prozess
 
-The teams should realise that they were able to adapt in a fast and structured way to the things happening with the project. Explain the different scrum concepts and how quite instinctively they applied the scrum concepts without knowing it. 
+Die Teams sollten erkennen, dass sie in der Lage waren, sich schnell und strukturiert an die Geschehnisse im Projekt anzupassen. Erkläre die verschiedenen Scrum-Konzepte und wie instinktiv sie die Scrum-Konzepte angewendet haben, ohne es zu wissen. 
 
-Understand why scrum is organised in sprints (answer: you cannot plan on a long term for software projects with several stakeholders as the requirement change over time and you need to solve the issues from the past as well. Stakeholders are the people who have certain business requirements for the project.) 
+Verstehe, warum Scrum in Sprints organisiert ist (Antwort: Bei Softwareprojekten mit mehreren Stakeholdern kann man nicht langfristig planen, da sich die Anforderungen im Laufe der Zeit ändern und du auch die Probleme aus der Vergangenheit lösen musst. Stakeholder sind die Personen, die bestimmte geschäftliche Anforderungen an das Projekt haben). 
 
 ## Copyrights
 ![](../images/GCT_Logo.png)
