@@ -1,4 +1,4 @@
-# AI-Arts - Technik Tage 2022 - Kantonsschule Hottingen
+# KI und Kunst Workshop - Technik Tage 2022 - Kantonsschule Hottingen (KSH)
 ![](images/GCT_Logo.png)
 ![](images/ai-art.jpg)
 
