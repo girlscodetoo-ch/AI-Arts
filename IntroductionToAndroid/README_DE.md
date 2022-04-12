@@ -644,7 +644,7 @@ Jeder Bildschirm in deiner App, der nicht der Haupteinstiegspunkt ist, d. h. all
 
 Um eine **Aufwärts**-Schaltfläche hinzuzufügen, musst du in der Datei [AndroidManifest.xml](https://developer.android.com/guide/topics/manifest/manifest-intro) angeben, welche Aktivität die logisch übergeordnete ist. Öffne die Datei unter **app > manifests > AndroidManifest.xml**, suche den `<activity>` Tag für `DisplayMessageActivity` und ersetze ihn durch den folgenden:
 
-``xml
+```xml
 <activity android:name=".DisplayMessageActivity"
           android:parentActivityName=".MainActivity">
     <!-- Das Meta-Data-Tag ist erforderlich, wenn du API-Level 15 und niedriger unterstützt -->
@@ -656,7 +656,7 @@ Um eine **Aufwärts**-Schaltfläche hinzuzufügen, musst du in der Datei [Androi
 
 Das Android-System fügt nun automatisch den **Aufwärts**-Button zur App-Leiste hinzu.
 
-**VOR**
+**VORHER**
 
 ![Screenshot 2021-05-28 um 16.48.09](images/Screenshot%202021-05-28%20at%2016.48.09.png)
 
