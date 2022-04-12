@@ -194,7 +194,7 @@ Jetzt hast du eine Android-App erstellt, die "Hello, World!" anzeigt. Du kannst 
 
 ## Auf einem echten Gerät ausführen (optional)
 
-Wenn du ein Android-Handy besitzt, kannst du die App, die wir in diesem Kurs entwickeln, auf deinem Handy installieren und mit ihr spielen. 🥳 **Wenn du kein Android Phone** hast, ist das kein Problem, wir können das Telefon auch direkt auf deinem Computer emulieren, was auch super Spaß macht. 
+Wenn du ein Android-Handy besitzt, kannst du die App, die wir in diesem Kurs entwickeln, auf deinem Handy installieren und mit ihr spielen. 🥳 **Wenn du kein Android Phone** hast, ist das kein Problem, wir können das Telefon auch direkt auf deinem Computer emulieren, was auch super Spass macht. 
 
 Richte dein Gerät wie folgt ein:
 
@@ -315,7 +315,7 @@ Die Benutzeroberfläche (UI) für eine Android-App wird als Hierarchie von *Layo
 
 **Abbildung 2.** Illustration, wie `ViewGroup`-Objekte Zweige im Layout bilden und `View`-Objekte enthalten.
 
-Android stellt ein XML-Vokabular für die Klassen `ViewGroup` und `View` zur Verfügung, so dass der größte Teil deiner Benutzeroberfläche in XML-Dateien definiert wird. In dieser Lektion lernst du jedoch nicht, wie du XML schreibst, sondern wie du ein Layout mit dem Layout Editor von Android Studio erstellst. Der Layout-Editor schreibt die XML-Dateien für dich, während du die Ansichten per Drag & Drop zu deinem Layout zusammenstellst.
+Android stellt ein XML-Vokabular für die Klassen `ViewGroup` und `View` zur Verfügung, so dass der grösste Teil deiner Benutzeroberfläche in XML-Dateien definiert wird. In dieser Lektion lernst du jedoch nicht, wie du XML schreibst, sondern wie du ein Layout mit dem Layout Editor von Android Studio erstellst. Der Layout-Editor schreibt die XML-Dateien für dich, während du die Ansichten per Drag & Drop zu deinem Layout zusammenstellst.
 
 ## Öffne den Layout Editor
 
@@ -367,11 +367,11 @@ Befolge diese Schritte, um ein Textfeld hinzuzufügen:
 2. Klicke im Bereich **Palette** auf **Text**, um die verfügbaren Textsteuerelemente anzuzeigen.
 3. Ziehe den **Plain Text** in den Design-Editor und lege ihn in der Nähe des oberen Endes des Layouts ab. Dies ist ein "EditText"-Widget, das einfache Texteingaben akzeptiert.
 4. Klicke auf das Objekt, das du gerade in den **Design-Editor** gezogen und dort abgelegt hast. Du kannst jetzt die quadratischen Griffe zum Verändern der Ansicht an jeder Ecke und die kreisförmigen Anker an jeder Seite sehen. 
-   **HINWEIS**: Um eine bessere Kontrolle zu haben, kannst du den Editor vergrößern. Verwende dazu die Schaltflächen **Zoom** in der Symbolleiste des Layout-Editors.
+   **HINWEIS**: Um eine bessere Kontrolle zu haben, kannst du den Editor vergrössern. Verwende dazu die Schaltflächen **Zoom** in der Symbolleiste des Layout-Editors.
    ![Screenshot 2021-05-28 um 15.46.32](images/Screenshot%202021-05-28%20at%2015.46.32.png)
 5. Klicke auf den Anker an der Oberseite, halte ihn gedrückt und ziehe ihn nach oben, bis er am oberen Rand des Layouts einrastet, und lasse ihn dann los. Das ist eine Begrenzung: Sie schränkt die Ansicht innerhalb des eingestellten Standardrandes ein. In diesem Fall hast du ihn auf 16 dp vom oberen Rand des Layouts eingestellt.
    Das ist der Anker -> ![Screenshot 2021-05-28 um 15.47.36](images/Screenshot%202021-05-28%20at%2015.47.36.png)
-6. Gehe genauso vor, um eine Beschränkung von der linken Seite der Ansicht zur linken Seite des Layouts zu erstellen. Das heißt, du klickst auf den Anker auf der linken Seite und ziehst ihn bis zum linken Rand des **Design-Editors**.
+6. Gehe genauso vor, um eine Beschränkung von der linken Seite der Ansicht zur linken Seite des Layouts zu erstellen. Das heisst, du klickst auf den Anker auf der linken Seite und ziehst ihn bis zum linken Rand des **Design-Editors**.
 
 Das Ergebnis sollte wie in **Abbildung 5** dargestellt aussehen.
 
@@ -404,7 +404,7 @@ Folge diesen Schritten, um die UI-Strings zu ändern:
 
    Dies ist eine [string resources](https://developer.android.com/guide/topics/resources/string-resource) Datei, in der du alle deine UI-Strings angeben kannst. So kannst du alle deine UI-Strings an einem einzigen Ort verwalten, damit sie leichter zu finden, zu aktualisieren und zu lokalisieren sind.
 
-2. Klicke oben im Fenster auf **Editor öffnen**. Dadurch wird der [Übersetzungseditor] (https://developer.android.com/studio/write/translations-editor) geöffnet, der eine einfache Schnittstelle zum Hinzufügen und Bearbeiten deiner Standard-Strings bietet. Außerdem hilft er dir, alle deine übersetzten Zeichenfolgen zu organisieren![Screenshot 2021-05-28 um 16.23.43](images/Screenshot%202021-05-28%20at%2016.23.43.png)
+2. Klicke oben im Fenster auf **Editor öffnen**. Dadurch wird der [Übersetzungseditor] (https://developer.android.com/studio/write/translations-editor) geöffnet, der eine einfache Schnittstelle zum Hinzufügen und Bearbeiten deiner Standard-Strings bietet. Ausserdem hilft er dir, alle deine übersetzten Zeichenfolgen zu organisieren![Screenshot 2021-05-28 um 16.23.43](images/Screenshot%202021-05-28%20at%2016.23.43.png)
 
 3. ![Screenshot 2021-05-28 um 16.24.07](images/Screenshot%202021-05-28%20at%2016.24.07.png)
 
@@ -441,13 +441,13 @@ Jetzt kannst du diese Zeichenfolgen für jede Ansicht festlegen. Um zur Layout-D
 
 4. Klicke auf die Schaltfläche im Layout und suche ihre **Text**-Eigenschaft, die momentan auf "Schaltfläche" eingestellt ist. Klicke dann auf ![img](images/pick-resource.png) (**Ressource auswählen**) und wähle **button_senden**.
 
-## Die Größe des Textfeldes flexibel gestalten
+## Die Grösse des Textfeldes flexibel gestalten
 
-Um ein Layout zu erstellen, das sich an verschiedene Bildschirmgrößen anpasst, musst du das Textfeld so dehnen, dass es den gesamten horizontalen Platz ausfüllt, der nach der Schaltfläche und den Rändern übrig bleibt.
+Um ein Layout zu erstellen, das sich an verschiedene Bildschirmgrössen anpasst, musst du das Textfeld so dehnen, dass es den gesamten horizontalen Platz ausfüllt, der nach der Schaltfläche und den Rändern übrig bleibt.
 
 Bevor du fortfährst, klicke auf ![img](images/layout-editor-design.png) (**Gestaltungsfläche auswählen**) in der Werkzeugleiste und wähle **Blueprint**.
 
-Um das Textfeld flexibel zu gestalten, gehe folgendermaßen vor:
+Um das Textfeld flexibel zu gestalten, gehe folgendermassen vor:
 
 1. Wähle beide Ansichten aus. Klicke dazu auf eine, halte die Umschalttaste gedrückt, klicke dann auf die andere und wähle mit der rechten Maustaste **Ketten > Horizontale Kette erstellen**. Das Layout sieht dann so aus wie in Abbildung 8.![img](images/building-ui-horizontal-chain.png)
 
@@ -684,7 +684,7 @@ Jetzt werden wir all das Wissen, das du heute Morgen über KI und das Trainieren
 
 Bitte gehe zurück zu "Android Studio" und führe folgende Schritte aus: 
 
-Gehe zu `Datei` > `Projekt schließen`, du solltest dann den folgenden Bildschirm sehen:
+Gehe zu `Datei` > `Projekt schliessen`, du solltest dann den folgenden Bildschirm sehen:
 
 
 ![img](images/FilesAS.png)
@@ -714,7 +714,7 @@ public void goToCameraActivity(View view) {
 }
 ```
 
-Wenn du die Probleme gelöst und die Schaltfläche mit dieser Funktion verbunden hast, kannst du die App neu starten und du solltest auf deine neue Schaltfläche klicken können und einen leeren weißen Bildschirm sehen. Herzlichen Glückwunsch! 🤘🏼 Du warst sicher noch nie so glücklich, eine App mit einem leeren Bildschirm zu sehen. 
+Wenn du die Probleme gelöst und die Schaltfläche mit dieser Funktion verbunden hast, kannst du die App neu starten und du solltest auf deine neue Schaltfläche klicken können und einen leeren weissen Bildschirm sehen. Herzlichen Glückwunsch! 🤘🏼 Du warst sicher noch nie so glücklich, eine App mit einem leeren Bildschirm zu sehen. 
 
 ## Teil B - Implementiere die Verbindung zur Kamera des Telefons
 
