@@ -23,7 +23,7 @@ Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschieden
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:30: Vortrag über andere Anwendungen von KI und die Grenzen von KI (15 Minuten Präsentation und 15 Minuten Frage und Antwort)
 - 15:30 - 16:30: Teil 3 - Einführung in Scrum & Design Thinking (60 Minuten)
-- 15:30 - 16:45: Teil 4 - Feedback - https://forms.office.com/r/FcpAcnHkQT (15 Minuten)
+- 16:30 - 16:45: Teil 4 - Feedback - https://forms.office.com/r/FcpAcnHkQT (15 Minuten)
 
 ## Teil 1 - Einführung in die KI
 ![](images/python.jpeg)
