@@ -30,6 +30,8 @@ Mittagspausse 🍕
 - 16:00 - 16:15: **Teil 3** - Testen der entwickelten KI Modelen auf Android und Wrap-up (15 Minuten)
 - 16:15 - 16:30: **Teil 4** - Feedback - https://forms.office.com/r/eug6Jjy7Uy (15 Minuten)
 
+- (Optional) **Teil 5** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
+
 ## Teil 1 - Einführung in Python und Digital Image Processing mit Google Colab
 ![](images/python.jpeg)
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
