@@ -15,20 +15,20 @@
 ## Zeitplan
 Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschiedene Teile:
 - 9:00 - 9:30: Vorstellung der Workshopleiterinnen Xenia Augustin und Sahana Betschen (30 Minuten)
-- 9:30 - 10:30: Teil 1.A - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten)
+- 9:30 - 10:30: **Teil 1.A** - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten)
 - 10:30 - 11:00: Pause 🤘🏼
-- 11:00 - 11:45: Teil 1.B - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten)
+- 11:00 - 11:45: **Teil 1.B** - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten)
 - 11:45 - 12:00: Pause 🤘🏼
 - 12:00 - 12:30: Vortrag über KI und Ethik (15 Minuten Präsentation und 15 Minuten Frage und Antwort)
 <br><br>
 Mittagspausse 🍕
 <br><br>
-- 13:30 - 14:30: Teil 2.A - Einführung in KI in Python mit Google Colab (60 Minuten)
+- 13:30 - 14:30: **Teil 2.A** - Einführung in KI in Python mit Google Colab (60 Minuten)
 - 14:30 - 15:00: Pause 🤘🏼
-- 15:00 - 15:45: Teil 2.B - Kaggle Challenge (45 Minuten)
+- 15:00 - 15:45: **Teil 2.B** - Kaggle Challenge (45 Minuten)
 - 15:45 - 16:00: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 5 Minuten Frage und Antwort)
-- 16:00 - 16:15: Teil 3 - Testen der entwickelten KI Modelen auf Android und Wrap-up (15 Minuten)
-- 16:15 - 16:30: Teil 4 - Feedback - https://forms.office.com/r/eug6Jjy7Uy (15 Minuten)
+- 16:00 - 16:15: **Teil 3** - Testen der entwickelten KI Modelen auf Android und Wrap-up (15 Minuten)
+- 16:15 - 16:30: **Teil 4** - Feedback - https://forms.office.com/r/eug6Jjy7Uy (15 Minuten)
 
 ## Teil 1 - Einführung in Python und Digital Image Processing mit Google Colab
 ![](images/python.jpeg)
