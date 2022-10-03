@@ -25,12 +25,11 @@ Mittagspausse 🍕
 <br><br>
 - 13:30 - 14:30: **Teil 2.A** - Einführung in KI in Python mit Google Colab (60 Minuten)
 - 14:30 - 15:00: Pause 🤘🏼
-- 15:00 - 15:45: **Teil 2.B** - Kaggle Challenge (45 Minuten)
-- 15:45 - 16:00: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 5 Minuten Frage und Antwort)
-- 16:00 - 16:15: **Teil 3** - Testen der entwickelten KI Modelen auf Android und Wrap-up (15 Minuten)
+- 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
+- 15:20 - 16:15: **Teil 3** - Testen der entwickelten KI Modelen auf Handy, Dall-E und Wrap-up (15 Minuten)
 - 16:15 - 16:30: **Teil 4** - Feedback - https://forms.office.com/r/eug6Jjy7Uy (15 Minuten)
-
-- (Optional) **Teil 5** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
+- (Optional) **Teil 5.A** - Kaggle Challenge (45 Minuten)
+- (Optional) **Teil 5.B** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
 
 ## Teil 1 - Einführung in Python und Digital Image Processing mit Google Colab
 ![](images/python.jpeg)
