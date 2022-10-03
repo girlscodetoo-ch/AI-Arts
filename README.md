@@ -40,13 +40,32 @@ Mittagspausse 🍕
 ![](images/scrum.jpeg)
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
 
-## Teil 3 - Testen der entwickelten KI Modelen auf Android
+## Teil 3 - Teste die entwickelte KI Modelen auf deinem Handy
 ![](images/android.jpeg)
-- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
-## Teil 4 - Feedback
+- iOS Link - https://apps.apple.com/ch/app/style-transfer/id1560155620?l=en
+- Android Link - https://play.google.com/store/apps/details?id=org.ibdev.styletransfer&hl=en&gl=US
+
+Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild in ein cooles stück Kunst verarbeitet! 
+
+## Teil 4 - Dall-E
+
+Meldet aus auf dieser Website kostenfrei an: https://openai.com/dall-e-2/ indem ihr auf sign-up (https://labs.openai.com/auth/signup) clickt.
+
+Gebt eure E-Mail Adresse ein und folgt den Instruktionen auf der Website. Sobald ihr fertig seid mit dem anmelden, solltet ihr die foldende Seite sehen können: 
+
+<img src="images/dall-e.png" width="700"/>
+
+Jetzt könnt ihr, wie beim Googlen, eine Serie an Worten eingeben und schauen was die KI euch zeigt! Viel Spass! 
+
+Zum Beispiel, wenn ihr "best coder of all time" eingebt solltet ihr folgende Bilder sehen: 
+
+<img src="images/best-coder.png" width="700"/>
+
+Was uns wieder zum Thema AI und Ethik führt das hier zum Beispeil einmal mehr nur "middle-aged white dudes" zu sehen sind! 
+
+## Teil 5 - Feedback
 ![](images/questionnaire.jpeg)
 Bitte fülle [dieses Formular](https://forms.office.com/r/eug6Jjy7Uy) aus und sage uns, wie dir der Tag gefallen hat und was verbessert werden könnte. 
-
 
 ## Kontakt
 Wenn dir der Workshop gefallen hat und du deine Reise in die Technik fortsetzen möchtest. Bitte besuche unsere [Website](https://girlscodetoo.ch/) und schau dir die Kurse an, die wir das ganze Jahr über anbieten. Wir bieten dir auch Unterstützung und Beratung bei der Entscheidung, was du nach der High School machen willst!
