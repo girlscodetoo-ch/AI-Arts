@@ -1,4 +1,4 @@
-# KI und Kunst Workshop - Technik Tage 2022 - Freies Gymnasium Zürich (FGZ)
+# KI und Kunst Workshop - Technik Tage 2022 - KS Willisau
 ![](images/ai-art.jpg)
 
 
@@ -23,12 +23,12 @@ Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschieden
 <br><br>
 Mittagspausse 🍕
 <br><br>
-- 13:30 - 14:30: **Teil 2.A** - Einführung in KI in Python mit Google Colab (60 Minuten)
-- 14:30 - 15:00: Pause 🤘🏼
+- 13:30 - 13:45: **Teil 2.A** - Motivation: KI Modelen in Mobile Apps (60 Minuten)
+- 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten)
+- 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
-- 15:20 - 15:45: **Teil 3** - Testen der entwickelten KI Modelen auf Handy, Dall-E und Wrap-up (15 Minuten)
-- 15:45 - 16:15: **Teil 4** - Testen der entwickelten KI Modelen auf Handy, Dall-E und Wrap-up (15 Minuten)
-- 16:15 - 16:30: **Teil 5** - Feedback - https://forms.office.com/r/eug6Jjy7Uy (15 Minuten)
+- 15:20 - 16:15: **Teil 3** - Dall-E und Wrap-up (15 Minuten)
+- 16:15 - 16:30: **Teil 4** - Feedback - https://forms.office.com/r/0QdB8CvYnj (15 Minuten)
 - (Optional) **Teil 5.A** - Kaggle Challenge (45 Minuten)
 - (Optional) **Teil 5.B** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
 
@@ -36,18 +36,18 @@ Mittagspausse 🍕
 ![](images/python.jpeg)
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
 
-## Teil 2 - Einführung in KI in Python mit Google Colab 
-![](images/scrum.jpeg)
-- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
-
-## Teil 3 - Teste die entwickelte KI Modelen auf deinem Handy
+## Teil 2.A - Motivation: KI Modelen in Mobile Apps
 ![](images/android.jpeg)
 - iOS Link - https://apps.apple.com/ch/app/style-transfer/id1560155620?l=en
 - Android Link - https://play.google.com/store/apps/details?id=org.ibdev.styletransfer&hl=en&gl=US
 
 Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild in ein cooles stück Kunst verarbeitet! 
 
-## Teil 4 - Dall-E
+## Teil 2.B - Einführung in KI in Python mit Google Colab 
+![](images/scrum.jpeg)
+- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
+
+## Teil 3 - Dall-E
 
 Meldet aus auf dieser Website kostenfrei an: https://openai.com/dall-e-2/ indem ihr auf sign-up (https://labs.openai.com/auth/signup) clickt.
 
