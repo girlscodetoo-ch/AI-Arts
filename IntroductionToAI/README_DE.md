@@ -19,7 +19,7 @@ Du solltest das Folgende sehen:
 
 ![](images/GitHub_upload.png)
 
-Klicke dort auf das Dokument `IntroductionToAI/workshop_DE.ipynb`. Du solltest das Folgende sehen:
+Klicke dort auf das Dokument `IntroductionToAI/workshop_DE-Teil1.ipynb`. Du solltest das Folgende sehen:
 
 ![](images/Colab.png)
 

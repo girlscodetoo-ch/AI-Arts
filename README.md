@@ -15,16 +15,16 @@
 ## Zeitplan
 Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschiedene Teile:
 - 9:00 - 9:30: Vorstellung der Workshopleiterinnen Xenia Augustin und Sahana Betschen (30 Minuten)
-- 9:30 - 10:30: **Teil 1.A** - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten)
+- 9:30 - 10:30: **Teil 1.A** - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil1.ipynb`
 - 10:30 - 11:00: Pause 🤘🏼
-- 11:00 - 11:45: **Teil 1.B** - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten)
+- 11:00 - 11:45: **Teil 1.B** - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten) - `IntroductionToAI/workshop_DE-Teil2.ipynb`
 - 11:45 - 12:00: Pause 🤘🏼
 - 12:00 - 12:30: Vortrag über KI und Ethik (15 Minuten Präsentation und 15 Minuten Frage und Antwort)
 <br><br>
 Mittagspausse 🍕
 <br><br>
 - 13:30 - 13:45: **Teil 2.A** - Motivation: KI Modelen in Mobile Apps (60 Minuten)
-- 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten)
+- 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
 - 15:20 - 16:15: **Teil 3** - Dall-E und Wrap-up (15 Minuten)
@@ -34,7 +34,7 @@ Mittagspausse 🍕
 
 ## Teil 1 - Einführung in Python und Digital Image Processing mit Google Colab
 ![](images/python.jpeg)
-- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
+- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Einführung zu Python ist im Dokument: `IntroductionToAI/workshop_DE-Teil1.ipynb` und der zweite Teil zum Thema Bildbearbeitung ist in: `IntroductionToAI/workshop_DE-Teil2.ipynb`
 
 ## Teil 2.A - Motivation: KI Modelen in Mobile Apps
 ![](images/android.jpeg)
@@ -45,7 +45,7 @@ Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild 
 
 ## Teil 2.B - Einführung in KI in Python mit Google Colab 
 ![](images/scrum.jpeg)
-- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`.
+- Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Bitte öffne das Dokument: `IntroductionToAI/workshop_DE-Teil3.ipynb`.
 
 ## Teil 3 - Dall-E
 
