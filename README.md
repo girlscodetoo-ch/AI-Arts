@@ -17,7 +17,7 @@
 
 Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschiedene Teile:
 
-- 9:00 - 9:30: Vorstellung der Workshopleiterinnen Aline Scherrer und Sahana Betschen (30 Minuten)
+- 9:00 - 9:30: Vorstellung der Workshopleitern Sahana Betschen und Emanuel Skodinis (30 Minuten)
 - 9:30 - 10:30: **Teil 1.A** - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil1.ipynb`
 - 10:30 - 11:00: Pause 🤘🏼
 - 11:00 - 11:45: **Teil 1.B** - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten) - `IntroductionToAI/workshop_DE-Teil2.ipynb`
