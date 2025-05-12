@@ -1,4 +1,4 @@
-# KI und Kunst Workshop - Technik Tage 2023 - KS Stans
+# KI und Kunst Workshop - Informatik Woche 2025 - Stiftschule Einsiedeln
 
 ![AI&Art](images/ai-art.jpg)
 
