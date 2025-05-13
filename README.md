@@ -29,12 +29,12 @@ Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschieden
 Mittagspausse 🍕
 &nbsp;
 
-- 13:30 - 13:45: **Teil 2.A** - Motivation: KI & Security (60 Minuten)
-- 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
+- 13:30 - 14:00: **Teil 2.A** - Motivation: KI & Security (30 Minuten)
+- 14:00 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (45 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
-- 15:20 - 16:15: **Teil 3** - Dall-E, Generative AI Tools und Wrap-up (55 Minuten)
-- 16:15 - 16:30: **Teil 4** - Feedback - [https://forms.office.com/r/0QdB8CvYnj](https://forms.office.com/r/0QdB8CvYnj) (15 Minuten)
+- 15:20 - 15:45: **Teil 3** - Dall-E, Generative AI Tools und Wrap-up (25 Minuten)
+- 15:45 - 16:00: **Teil 4** - Feedback - [https://forms.office.com/r/0QdB8CvYnj](https://forms.office.com/r/0QdB8CvYnj) (15 Minuten)
 - (Optional) **Teil 5.A** - Kaggle Challenge (45 Minuten)
 - (Optional) **Teil 5.B** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
 
