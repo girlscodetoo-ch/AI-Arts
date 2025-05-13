@@ -65,7 +65,7 @@ Intro in KI & Security!
 
 DALL-E ist ein revolutionäres KI-Modell von OpenAI, das Text- und Bilderzeugung kombiniert und es den Benutzern ermöglicht, Bilder aus Textbeschreibungen zu erstellen. Dieses Tool ist eine faszinierende Möglichkeit, die Fähigkeiten moderner KI zu verstehen und die Schnittstelle zwischen Kreativität und Technologie zu erkunden. Es ist ideal, um die Vorstellungskraft anzuregen und die komplizierte Funktionsweise von generativen Modellen zu verstehen.
 
-Meldet euch kostenfrei auf der [OpenAI-Website](https://openai.com/dall-e-2/) an, indem ihr auf "Sign-up" klickt.
+Meldet euch kostenfrei auf der [OpenAI-Website](https://openai.com/index/dall-e-3/) an, indem ihr auf "Sign-up" klickt.
 
 Gebt eure E-Mail Adresse ein und folgt den Instruktionen auf der Website. Sobald ihr fertig seid mit dem anmelden, solltet ihr die foldende Seite sehen können:
 
