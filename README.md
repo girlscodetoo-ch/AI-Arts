@@ -29,7 +29,7 @@ Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschieden
 Mittagspausse 🍕
 &nbsp;
 
-- 13:30 - 13:45: **Teil 2.A** - Motivation: KI Modelen in Mobile Apps (60 Minuten)
+- 13:30 - 13:45: **Teil 2.A** - Motivation: KI & Security (60 Minuten)
 - 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
@@ -43,16 +43,15 @@ Mittagspausse 🍕
 ![Python](images/python.jpeg)
 
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Einführung zu Python ist im Dokument: `IntroductionToAI/workshop_DE-Teil1.ipynb` und der zweite Teil zum Thema Bildbearbeitung ist in: `IntroductionToAI/workshop_DE-Teil2.ipynb`
+  
+[IntroductionToAI/workshop_DE-Teil1.ipynb](https://colab.research.google.com/github/girlscodetoo-ch/AI-Arts/blob/main/IntroductionToAI/workshop_DE-Teil1.ipynb)
 
-## Teil 2.A - Motivation: KI Modelen in Mobile Apps
+[`IntroductionToAI/workshop_DE-Teil2.ipynb`](https://colab.research.google.com/github/girlscodetoo-ch/AI-Arts/blob/main/IntroductionToAI/workshop_DE-Teil2.ipynb)
 
-![Android](images/android.jpeg)
+## Teil 2.A - Motivation: KI & Security
 
-- [iOS Link](https://apps.apple.com/ch/app/style-transfer/id1560155620?l=en)
-- [Android Link](https://play.google.com/store/apps/details?id=org.ibdev.styletransfer&hl=en&gl=US)
-
-Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild in ein cooles stück Kunst verarbeitet!
-
+https://gandalf.lakera.ai/do-not-tell
+Intro in KI & Security!
 ## Teil 2.B - Einführung in KI in Python mit Google Colab
 
 ![Scrum](images/scrum.jpeg)
