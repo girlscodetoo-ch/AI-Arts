@@ -1,4 +1,4 @@
-# KI und Kunst Workshop - Technik Tage 2023 - KS Stans
+# KI und Kunst Workshop - Informatik Woche 2025 - Stiftschule Einsiedeln
 
 ![AI&Art](images/ai-art.jpg)
 
@@ -17,7 +17,7 @@
 
 Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschiedene Teile:
 
-- 9:00 - 9:30: Vorstellung der Workshopleiterinnen Aline Scherrer und Sahana Betschen (30 Minuten)
+- 9:00 - 9:30: Vorstellung der Workshopleitern Sahana Betschen und Emanuel Skodinis (30 Minuten)
 - 9:30 - 10:30: **Teil 1.A** - Einführung in Python und Digital Image Processing mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil1.ipynb`
 - 10:30 - 11:00: Pause 🤘🏼
 - 11:00 - 11:45: **Teil 1.B** - Einführung in Python und Digital Image Processing mit Google Colab (45 Minuten) - `IntroductionToAI/workshop_DE-Teil2.ipynb`
@@ -29,12 +29,12 @@ Der Workshop dauert von 9:00 bis 16:45 Uhr und gliedert sich in drei verschieden
 Mittagspausse 🍕
 &nbsp;
 
-- 13:30 - 13:45: **Teil 2.A** - Motivation: KI Modelen in Mobile Apps (60 Minuten)
-- 13:45 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (60 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
+- 13:30 - 14:00: **Teil 2.A** - Motivation: KI & Security (30 Minuten)
+- 14:00 - 14:45: **Teil 2.B** - Einführung in KI in Python mit Google Colab (45 Minuten) - `IntroductionToAI/workshop_DE-Teil3.ipynb`
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
-- 15:20 - 16:15: **Teil 3** - Dall-E, Generative AI Tools und Wrap-up (55 Minuten)
-- 16:15 - 16:30: **Teil 4** - Feedback - [https://forms.office.com/r/0QdB8CvYnj](https://forms.office.com/r/0QdB8CvYnj) (15 Minuten)
+- 15:20 - 15:45: **Teil 3** - Dall-E, Generative AI Tools und Wrap-up (25 Minuten)
+- 15:45 - 16:00: **Teil 4** - Feedback - https://forms.cloud.microsoft/e/C2kVrkus0C (15 Minuten)
 - (Optional) **Teil 5.A** - Kaggle Challenge (45 Minuten)
 - (Optional) **Teil 5.B** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
 
@@ -43,16 +43,13 @@ Mittagspausse 🍕
 ![Python](images/python.jpeg)
 
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Einführung zu Python ist im Dokument: `IntroductionToAI/workshop_DE-Teil1.ipynb` und der zweite Teil zum Thema Bildbearbeitung ist in: `IntroductionToAI/workshop_DE-Teil2.ipynb`
+  
 
-## Teil 2.A - Motivation: KI Modelen in Mobile Apps
+## Teil 2.A - Motivation: KI & Security
 
-![Android](images/android.jpeg)
+https://gandalf.lakera.ai/do-not-tell
 
-- [iOS Link](https://apps.apple.com/ch/app/style-transfer/id1560155620?l=en)
-- [Android Link](https://play.google.com/store/apps/details?id=org.ibdev.styletransfer&hl=en&gl=US)
-
-Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild in ein cooles stück Kunst verarbeitet!
-
+Intro in KI & Security!
 ## Teil 2.B - Einführung in KI in Python mit Google Colab
 
 ![Scrum](images/scrum.jpeg)
@@ -65,7 +62,7 @@ Mit den Apps, könnt ihr ein paar Fotos machen und schauen wie die KI euer Bild 
 
 DALL-E ist ein revolutionäres KI-Modell von OpenAI, das Text- und Bilderzeugung kombiniert und es den Benutzern ermöglicht, Bilder aus Textbeschreibungen zu erstellen. Dieses Tool ist eine faszinierende Möglichkeit, die Fähigkeiten moderner KI zu verstehen und die Schnittstelle zwischen Kreativität und Technologie zu erkunden. Es ist ideal, um die Vorstellungskraft anzuregen und die komplizierte Funktionsweise von generativen Modellen zu verstehen.
 
-Meldet euch kostenfrei auf der [OpenAI-Website](https://openai.com/dall-e-2/) an, indem ihr auf "Sign-up" klickt.
+Meldet euch kostenfrei auf der [OpenAI-Website](https://openai.com/index/dall-e-3/) an, indem ihr auf "Sign-up" klickt.
 
 Gebt eure E-Mail Adresse ein und folgt den Instruktionen auf der Website. Sobald ihr fertig seid mit dem anmelden, solltet ihr die foldende Seite sehen können:
 
