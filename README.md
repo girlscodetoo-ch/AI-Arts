@@ -34,7 +34,7 @@ Mittagspausse 🍕
 - 14:45 - 15:00: Pause 🤘🏼
 - 15:00 - 15:20: Vortrag über andere Anwendungen von KI und die Grenzen von KI (10 Minuten Präsentation und 10 Minuten Frage und Antwort)
 - 15:20 - 15:45: **Teil 3** - Dall-E, Generative AI Tools und Wrap-up (25 Minuten)
-- 15:45 - 16:00: **Teil 4** - Feedback - [https://forms.office.com/r/0QdB8CvYnj](https://forms.office.com/r/0QdB8CvYnj) (15 Minuten)
+- 15:45 - 16:00: **Teil 4** - Feedback - https://forms.cloud.microsoft/e/C2kVrkus0C (15 Minuten)
 - (Optional) **Teil 5.A** - Kaggle Challenge (45 Minuten)
 - (Optional) **Teil 5.B** - Einführung in Android und Mobile App Entwicklung in Android mit Android Studio (60 Minuten)
 
@@ -51,6 +51,7 @@ Mittagspausse 🍕
 ## Teil 2.A - Motivation: KI & Security
 
 https://gandalf.lakera.ai/do-not-tell
+
 Intro in KI & Security!
 ## Teil 2.B - Einführung in KI in Python mit Google Colab
 
