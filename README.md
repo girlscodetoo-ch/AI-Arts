@@ -44,9 +44,6 @@ Mittagspausse 🍕
 
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Einführung zu Python ist im Dokument: `IntroductionToAI/workshop_DE-Teil1.ipynb` und der zweite Teil zum Thema Bildbearbeitung ist in: `IntroductionToAI/workshop_DE-Teil2.ipynb`
   
-[IntroductionToAI/workshop_DE-Teil1.ipynb](https://colab.research.google.com/github/girlscodetoo-ch/AI-Arts/blob/main/IntroductionToAI/workshop_DE-Teil1.ipynb)
-
-[`IntroductionToAI/workshop_DE-Teil2.ipynb`](https://colab.research.google.com/github/girlscodetoo-ch/AI-Arts/blob/main/IntroductionToAI/workshop_DE-Teil2.ipynb)
 
 ## Teil 2.A - Motivation: KI & Security
 
