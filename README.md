@@ -57,6 +57,8 @@ Intro in KI & Security!
 
 - Öffne den Ordner `IntroductionToAI` und folge den Anweisungen im Dokument `README_DE.md`. Das Dokument gibt es auch auf Englisch - `README_ENG.md`. Bitte öffne das Dokument: `IntroductionToAI/workshop_DE-Teil3.ipynb`. Sobald du damit fertig bist kannst du mit `IntroductionToAI/workshop_DE-Teil4.ipynb` weitermachen! Viel Spass!
 
+[Teil 3](https://colab.research.google.com/github/girlscodetoo-ch/AI-Arts/blob/main/IntroductionToAI/workshop_DE-Teil3.ipynb)
+
 ## Teil 3 - Generative AI Tools
 
 ### Teil A - DALL-E (OpenAI)
