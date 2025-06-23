@@ -1,4 +1,4 @@
-# KI und Kunst Workshop - Informatik Woche 2025 - Stiftschule Einsiedeln
+# KI und Kunst Workshop - KSSO Solothurn
 
 ![AI&Art](images/ai-art.jpg)
 
